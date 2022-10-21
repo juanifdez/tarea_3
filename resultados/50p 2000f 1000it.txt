@@ -1,0 +1,106 @@
+[1666309816.947258] [n8:51781:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309816.948016] [n8:51783:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.023496] [n8:51782:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.039385] [n8:51785:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.026120] [n8:51796:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.031901] [n8:51800:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.026071] [n8:51802:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.081448] [n8:51784:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.189895] [n8:51792:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.164471] [n8:51794:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.111156] [n8:51798:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.089549] [n8:51804:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.192546] [n8:51808:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.134137] [n8:51817:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.213717] [n8:51823:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.149367] [n8:51831:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.134275] [n8:51852:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.151150] [n8:51855:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.256479] [n8:51780:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.219518] [n8:51786:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.262201] [n8:51819:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.223332] [n8:51828:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.235708] [n8:51846:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.247376] [n8:51849:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.251192] [n8:51858:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.219872] [n8:51873:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.236894] [n8:51879:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.254607] [n8:51897:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.278613] [n8:51840:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.275336] [n8:51864:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.290951] [n8:51806:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.291001] [n8:51834:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.302591] [n8:51876:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.304433] [n8:51837:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.304483] [n8:51911:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.312212] [n8:51885:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.313062] [n8:51882:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.313124] [n8:51888:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.314711] [n8:51815:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.317523] [n8:51894:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.321450] [n8:51843:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.323241] [n8:51900:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.333347] [n8:51891:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.334044] [n8:51825:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.333710] [n8:51867:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.335866] [n8:51861:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.336275] [n8:51870:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.335247] [n8:51903:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.336485] [n8:51905:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666309817.337107] [n8:51909:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+proceso 29/50: filas 1120 -> 1159
+proceso 33/50: filas 1280 -> 1319
+proceso 45/50: filas 1760 -> 1799
+proceso 31/50: filas 1200 -> 1239
+proceso 4/50: filas 120 -> 159
+proceso 2/50: filas 40 -> 79
+proceso 13/50: filas 480 -> 519
+proceso 3/50: filas 80 -> 119
+proceso 1/50: filas 0 -> 39
+proceso 5/50: filas 160 -> 199
+proceso 8/50: filas 280 -> 319
+proceso 6/50: filas 200 -> 239
+proceso 9/50: filas 320 -> 359
+proceso 10/50: filas 360 -> 399
+proceso 12/50: filas 440 -> 479
+proceso 11/50: filas 400 -> 439
+proceso 34/50: filas 1320 -> 1359
+proceso 14/50: filas 520 -> 559
+proceso 42/50: filas 1640 -> 1679
+proceso 16/50: filas 600 -> 639
+proceso 7/50: filas 240 -> 279
+proceso 18/50: filas 680 -> 719
+proceso 43/50: filas 1680 -> 1719
+proceso 19/50: filas 720 -> 759
+proceso 20/50: filas 760 -> 799
+proceso 15/50: filas 560 -> 599
+proceso 38/50: filas 1480 -> 1519
+proceso 44/50: filas 1720 -> 1759
+proceso 22/50: filas 840 -> 879
+proceso 28/50: filas 1080 -> 1119
+proceso 23/50: filas 880 -> 919
+proceso 30/50: filas 1160 -> 1199
+proceso 49/50: filas 1920 -> 1959
+proceso 35/50: filas 1360 -> 1399
+proceso 26/50: filas 1000 -> 1039
+proceso 21/50: filas 800 -> 839
+proceso 32/50: filas 1240 -> 1279
+proceso 24/50: filas 920 -> 959
+proceso 37/50: filas 1440 -> 1479
+proceso 41/50: filas 1600 -> 1639
+proceso 50/50: filas 1960 -> 1999
+proceso 40/50: filas 1560 -> 1599
+proceso 46/50: filas 1800 -> 1839
+proceso 17/50: filas 640 -> 679
+proceso 39/50: filas 1520 -> 1559
+proceso 27/50: filas 1040 -> 1079
+proceso 36/50: filas 1400 -> 1439
+proceso 47/50: filas 1840 -> 1879
+proceso 48/50: filas 1880 -> 1919
+proceso 25/50: filas 960 -> 999
+mu_k 9.99904
+error metodo: 0.000957025
+
+real	0m8.063s
+user	5m2.311s
+sys	0m10.498s

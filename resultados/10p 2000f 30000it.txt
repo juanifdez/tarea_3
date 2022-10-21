@@ -1,0 +1,36 @@
+[1666389611.915515] [n12:25868:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.920596] [n12:25870:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.927994] [n12:25869:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.931741] [n12:25874:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.933737] [n12:25872:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.943830] [n12:25878:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.952286] [n12:25876:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.956708] [n12:25882:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.957558] [n12:25880:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+[1666389611.989864] [n12:25884:0]            sys.c:618  UCX  ERROR shmget(size=2097152 flags=0xfb0) for mm_recv_desc failed: Operation not permitted, please check shared memory limits by 'ipcs -l'
+proceso 2/10: filas 200 -> 399
+proceso 7/10: filas 1200 -> 1399
+proceso 3/10: filas 400 -> 599
+proceso 1/10: filas 0 -> 199
+proceso 5/10: filas 800 -> 999
+proceso 10/10: filas 1800 -> 1999
+proceso 6/10: filas 1000 -> 1199
+proceso 4/10: filas 600 -> 799
+proceso 9/10: filas 1600 -> 1799
+proceso 8/10: filas 1400 -> 1599
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+trabajando con: 30000 iteraciones
+mu_k 10
+error metodo: 1.77636e-15
+
+real	1m44.030s
+user	17m10.528s
+sys	0m1.874s
